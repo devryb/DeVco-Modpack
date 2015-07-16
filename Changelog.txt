@@ -3,6 +3,5 @@ For all config related changes go here: https://github.com/devryb/DeVco-Modpack/
 All mod add and remove changes here:
 To remove for next version:
 - Simple Condensers
-- World Edit Forge
 To add for next version:
 - Resource Loader
