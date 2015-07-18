@@ -106,7 +106,7 @@
             "width" : 89,
             "height" : 20,
             "imageWidth": 272,
-            "imageHeight": 61,
+            "imageHeight": 60,
 			"alignment" : "bottom_right",
 			"texture" : "custommainmenu:button-small-site.png",
             "action" : 
@@ -123,7 +123,7 @@
             "width" : 89,
             "height" : 20,
             "imageWidth": 272,
-            "imageHeight": 61,
+            "imageHeight": 60,
 			"alignment" : "bottom_right",
 			"texture" : "custommainmenu:button-small-rules.png",
             "action" : 
@@ -140,7 +140,7 @@
             "width" : 89,
             "height" : 20,
             "imageWidth": 272,
-            "imageHeight": 61,
+            "imageHeight": 60,
 			"alignment" : "bottom_right",
 			"texture" : "custommainmenu:button-small-support.png",
             "action" : 
