@@ -1,6 +1,8 @@
 For all config related changes go here: https://github.com/devryb/DeVco-Modpack/commits/master
 
 All mod add and remove changes here:
+To be removed:
+- Secret Rooms Mod
 1.0.2:
 - No mod changes
 1.0.1
