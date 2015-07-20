@@ -13,10 +13,9 @@ BiblioCraft[v1.10.4][MC1.7.10].jar
 BiblioWoods[Forestry][v1.7].jar
 BigReactors-0.4.3A.jar
 BluePower-1.7.10-0.2.954-universal.jar
-Botania r1.7-201.jar
+Botania r1.7-203.jar
 buildcraft-7.0.15.jar
 Carpenter's Blocks v3.3.6 - MC 1.7.10.jar
-carpentersblocks
 Chisel2-2.4.1.40.jar
 ChiselFacades-1.7.10-2.11-cricket.jar
 ChiselTones-1.7.10-1.0-1.jar
@@ -43,11 +42,12 @@ funky-locomotion-1.7.10-beta-5c.jar
 gendustry-1.5.2.107-mc1.7.10.jar
 generators-0.9.14.89-mc1.7.10.jar
 Guide-API-1.7.10-1.0.1-20.jar
-Headcrumbs-1.5.4.jar
+Headcrumbs-1.5.5.jar
 IGW-Mod-1.7.10-1.1.4-20-universal.jar
 ImmersiveEngineering-0.4.1.jar
 immibis-core-59.1.1.jar
 InfiniBows-1.7.10-universal-coremod-1.3.0.20.jar
+INpureCore-[1.7.10]1.0.0B9-62.jar
 IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar
 InventoryTweaks-1.59-dev-152.jar
 ironchest-1.7.10-6.0.60.741-universal.jar
@@ -84,10 +84,9 @@ ResourceLoader-1.2.jar
 RFDrills-1.7.10-1.6.2.jar
 rfwindmill-1.7.10-0.7a.jar
 RightClickTorch-1.0.2.jar
-RouterReborn-1.7.10-1.2.0.25-universal.jar
+RouterReborn-1.7.10-1.2.0.31-universal.jar
 runicdungeons-1.1.5c.jar
 RWG-alpha-1.3.2.jar
-secretroomsmod-1.7.2-4.6.3.345.jar
 SilentGems-1.7.10-1.3.00-beta01-94.jar
 SimplyJetpacks-MC1.7.10-1.5.1.jar
 SnapDoors-1.7.10-1.0.1.jar
@@ -99,7 +98,7 @@ SuperMiner_Illuminator-1.7.10-1.2.jar
 SuperMiner_Substitutor-1.7.10-1.3.jar
 ThermalExpansion-[1.7.10]4.0.3B1-218.jar
 ThermalFoundation-[1.7.10]1.2.0-102.jar
-ThermalRecycling-1.7.10-0.4.2.6.jar
+ThermalRecycling-1.7.10-0.4.2.7.jar
 ttCore-MC1.7.10-0.1.1-78.jar
 tubestuff-59.0.4.jar
 Waila-1.5.10_1.7.10.jar
