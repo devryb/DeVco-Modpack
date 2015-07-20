@@ -8,7 +8,7 @@
         <!--Maximum range of DHD to Stargate link-->
         <Option name="dhdLinkRange" x="10" y="10" z="10"/>
         <!--Seconds to keep connections open for-->
-        <Option name="secondsToStayOpen" time="300"/>
+        <Option name="secondsToStayOpen" time="30"/>
         <!--Can players travel only one way?-->
         <Option enabled="true" name="oneWayTravel"/>
         <!--Can players close the gate from either end?-->
