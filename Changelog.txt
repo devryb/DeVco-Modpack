@@ -1,6 +1,8 @@
 For all config related changes go here: https://github.com/devryb/DeVco-Modpack/commits/master
 
 All mod add and remove changes here:
+1.1.1:
+- Added AE2EE3EMC Addon
 1.1.0:
 Removed:
 - Secret Rooms Mod
