@@ -1,4 +1,4 @@
-#Sextuple_Cobble
+#Rubber_Sapling
 
 var Sapling = <ore:treeSapling>;
 
