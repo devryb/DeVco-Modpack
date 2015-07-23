@@ -1,7 +1,8 @@
 For all config related changes go here: https://github.com/devryb/DeVco-Modpack/commits/master
 
 All mod add and remove changes here:
-To Be removed:
+1.1.4:
+Removed:
 - Equivalent Exchange 3
 - AE@ EE3 EMC Addon
 1.1.3:
