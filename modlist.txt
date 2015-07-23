@@ -30,7 +30,7 @@ Decocraft-2.0.2_1.7.10.jar
 denseores-1.6.2.jar
 Draconic-Evolution-1.7.10-1.0.1c.jar
 EnderIO-1.7.10-2.2.8.381.jar
-equivalentexchange3-1.7.10-0.3.0-dev.jar
+equivalentexchange3-1.7.10-0.3k1.0.jar
 ExtraCells-1.7.10-2.2.73b129.jar
 extrautilities-1.2.8.jar
 Farseek-1.0.8.jar
