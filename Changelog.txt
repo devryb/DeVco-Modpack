@@ -4,7 +4,9 @@ All mod add and remove changes here:
 Planned future changes:
 - Remove IGW
 - Remove JACB
+- Remove AutoPackager
 - Add Open Peripherals
+- Add Compacter
 1.1.4:
 Removed:
 - Equivalent Exchange 3
