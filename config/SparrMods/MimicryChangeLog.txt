@@ -2,6 +2,9 @@
 
 "--Planned--"
 "--Mimicry Changelog--"
+"--v1.0.10--"
+"--8-14-15--"
+"fixed a potential crash on load regarding ItemStack in Recipe"
 "--v1.0.9--"
 "--5-14-15--"
 "finaly figured out how to make the volitile fluid update itself in terms of growing ores passively"

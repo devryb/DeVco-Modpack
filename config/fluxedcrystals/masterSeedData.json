@@ -793,7 +793,7 @@
   "powerPerStage": 10000,
   "weigthedDropChance": 0,
   "refinerAmount": 20,
-  "seedID": 38,
+  "seedID": 39,
   "seedReturn": 1,
   "isSharp": true,
   "modRequired": "BigReactors",
