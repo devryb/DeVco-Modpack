@@ -221,7 +221,7 @@
 },{
   "name": "Clay",
   "lore": "",
-  "ingredient": "minecraft:clay_ball:0",
+  "ingredient": "minecraft:clay_ball;0",
   "weightedDrop": "",
   "color": 15066338,
   "dropMin": 3,
