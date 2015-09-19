@@ -64,7 +64,7 @@
         
         <mod name="BD Lib" version="1.9.2.104" url="packs/DeVco/files/mods/bdlib-1.9.2.104-mc1.7.10.jar" file="bdlib-1.9.2.104-mc1.7.10.jar" md5="a013b60c45c7b38819b7157c5a53b4f5" download="server" type="mods" website="http://bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/mc-mods/70496-bdlib&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http://minecraft" authors="bdew" description="A library of generic code for my other mods" />
         
-        <mod name="Better Foliage" version="1.0.14" url="packs/DeVco/files/mods/BetterFoliage-mc1.7-1.0.14.jar" file="BetterFoliage-mc1.7-1.0.14.jar" md5="ea1418ec280a541219e0fa9ff71e2ed2" download="server" type="mods" website="http://www.curseforge.com/projects/228529/" authors="octarine-noise (code),Meringue (textures)" description="Leafier leaves and grassier grass" />
+        <mod name="Better Foliage" version="1.0.14" url="packs/DeVco/files/mods/BetterFoliage-mc1.7-1.0.14.jar" file="BetterFoliage-mc1.7-1.0.14.jar" md5="ea1418ec280a541219e0fa9ff71e2ed2" download="server" type="mods" website="http://www.curseforge.com/projects/228529/" authors="octarine-noise (code),Meringue (textures)" description="Leafier leaves and grassier grass" optional="yes" recommended="yes" />
         
         <mod name="BetterFps" version="1.0.1" url="packs/DeVco/files/mods/BetterFps-1.0.1.jar" file="BetterFps-1.0.1.jar" md5="a319779859b31573ac20cd1aa4b06da7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/229876-betterfps" authors="Guichaguri" description="Performance Improvements" optional="yes" recommended="no" />
         
